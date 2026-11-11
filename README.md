@@ -32,9 +32,9 @@ na área de engenharia de software.
     </a>
     <a href="mailto:clarice.silva3975@gmail.com">
         <img 
-            alt="seguidores" 
+            alt="email" 
             title="Entre em contato" 
-            src="https://custom-icon-badges.demolab.com/badge/-clarice.silva.co.uk-red?style=for-the-badge&logo=mention&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-clarice.silva.com-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
     <a href="https://wa.me/556194152170">
