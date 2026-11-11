@@ -1,7 +1,5 @@
 👩‍💻 # Gianne Clarice
 
-**`Desenvolvedora FullStack`**
-
 Tenho 19 ano sou de Brasília, me formei no ensino médio ano 
 passado, e agora estou cursando o curso de 
 engenharia de software, estou no segundo semestre.
