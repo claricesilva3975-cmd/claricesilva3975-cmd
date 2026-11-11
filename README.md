@@ -39,7 +39,7 @@ na área de engenharia de software.
     </a>
     <a href="https://wa.me/556194152170">
         <img 
-            alt="" 
+            alt="WhatsApp" 
             title="Entre em contato" 
             src="  https://custom-icon-badges.demolab.com/badge/-123--456--7890-purple?style=for-the-badge&logo=phone&logoColor=white
             "
